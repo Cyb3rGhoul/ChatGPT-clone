@@ -15,5 +15,5 @@ Tailwind CSS: Streamlining the UI development process with a utility-first CSS f
 
 ## Contribution:
 
-The project's GitHub repository can be accessed through this link: [Insert Link to GitHub Repo]. 
+The project's GitHub repository can be accessed through this link: (https://github.com/Cyb3rGhoul/ChatGPT-clone.git). 
 I highly encourage all talented developers and designers to contribute to this project and enhance its UI while introducing exciting new features.
