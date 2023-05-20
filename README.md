@@ -27,7 +27,7 @@ We appreciate your contributions, whether they involve fixing bugs, implementing
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please feel free to reach out to us through the [Issues](link_to_issues) section or contact us directly at [harsh19112003@gmail.com](mailto:harsh19112003@gamil.com). We value your feedback and appreciate your interest in this project!
+If you have any questions or suggestions regarding this project, please feel free to reach out to us through the [Issues](https://github.com/Cyb3rGhoul/ChatGPT-clone/issues) section or contact us directly at [harsh19112003@gmail.com](mailto:harsh19112003@gamil.com). We value your feedback and appreciate your interest in this project!
 
 ---
 
